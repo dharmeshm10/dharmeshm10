@@ -34,7 +34,7 @@
 
 
 ## 🚀🎉 Learning and Contribution
-👉 In my free time using to learn new concept from [Udemy](./https://www.linkedin.com/in/dharmeshm10/details/certifications/) platform and help to grow community's in [Stackoverflow](./https://stackoverflow.com/users/4641505/dharmesh-mansata)🎉
+👉 In my free time using to learn new concept from [Udemy](https://www.linkedin.com/in/dharmeshm10/details/certifications/) platform and help to grow community's in [Stackoverflow](https://stackoverflow.com/users/4641505/dharmesh-mansata)🎉
 
 👉 An avid learner, I enjoy collaborating, problem-solving, and staying up-to-date on the latest tech trends. When I'm not coding, you might find me strategizing my next chess move or perfecting my table tennis backhand ! ♟️🏓
 
