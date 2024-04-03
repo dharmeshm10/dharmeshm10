@@ -3,7 +3,7 @@
 
 
 ## 🧑‍💻 About Me
-🔥Bunch of mobile and Web tech enthusiasts with 3.5+ years of experience in Flutter and 7.3+ years of experience overall in Mobile and Web applications development.
+🔥Bunch of mobile and Web tech enthusiasts with 4+ years of experience in Flutter and 7.3+ years of experience overall in Mobile and Web applications development.
 
 
 ## 👀 Things I know
